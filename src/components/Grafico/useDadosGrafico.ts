@@ -25,4 +25,4 @@ interface IDados {
     consultas: number
 }
 
-export default useDadosGrafico
+export default useDadosGrafico;
