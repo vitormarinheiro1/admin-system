@@ -12,8 +12,8 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="./public/assets/voll.png" alt="Image 1" width="400px">
-    <img src="./public/assets/voll2.png" alt="Image 2" width="400px">
+    <img src="./public/voll.png" alt="Image 1" width="400px">
+    <img src="./public/voll2.png" alt="Image 2" width="400px">
 </p>
 
 <h2 id="tech">💻 Technologies</h2>
