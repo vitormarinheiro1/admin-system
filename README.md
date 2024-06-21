@@ -51,6 +51,7 @@ npm run dev
 
 Prompt 2:
 ```bash
+cd admin-system
 npm run api
 ```
 
