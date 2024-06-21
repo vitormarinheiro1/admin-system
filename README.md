@@ -48,6 +48,10 @@ npm install
 npm run dev
 ```
 
+```bash
+npm run api
+```
+
 <h3>Documentations that might help</h3>
 
 [📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
