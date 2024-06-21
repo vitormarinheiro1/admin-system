@@ -42,14 +42,14 @@ git clone https://github.com/vitormarinheiro1/admin-system.git
 
 How to start your project
 
-Terminal 1:
+Prompt 1:
 ```bash
 cd admin-system
 npm install
 npm run dev
 ```
 
-Terminal 2:
+Prompt 2:
 ```bash
 npm run api
 ```
