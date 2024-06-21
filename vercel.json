@@ -2,8 +2,8 @@
     "version": 2,
     "builds": [
       {
-        "src": "src/**/*.js",
-        "use": "@vercel/static-build"
+        "src": "src/**/*",
+        "use": "@vercel/static"
       },
       {
         "src": "api/server.js",
