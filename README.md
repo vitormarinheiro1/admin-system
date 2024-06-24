@@ -19,7 +19,7 @@
 <h2 id="tech">💻 Technologies</h2>
 
 - Reactjs
-- Tyescript
+- Typescript
 - Styled Components
 - MUI Material
 
